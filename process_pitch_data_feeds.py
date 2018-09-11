@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-__author__ = 'tonycmooz'
+__author__ = 'Tony Moozhayil'
 from collections import Counter
 
 
